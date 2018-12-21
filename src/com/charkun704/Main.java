@@ -4,9 +4,7 @@ Assume user will only put integer characters.
  */
 package com.charkun704;
 
-import java.net.Inet4Address;
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Main {
 
